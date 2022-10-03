@@ -18,6 +18,5 @@
 ## 7.Przekierowanie portów WWW
 
 #
-#
 1.Konfiguracja 
 ## 1.a Konfiguracja Lan
