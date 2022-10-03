@@ -36,3 +36,6 @@
   ![image](https://user-images.githubusercontent.com/98666161/193676808-29798740-00f2-43de-95c5-995aefa92891.png)
 
 ## 5. Zabezpieczenia 
+  ![image](https://user-images.githubusercontent.com/98666161/193677710-5ce8aba8-a72a-4342-81a5-fef18beea555.png)
+  ![image](https://user-images.githubusercontent.com/98666161/193678215-5da02a0d-e268-4233-884c-e7dbba24952a.png)
+
