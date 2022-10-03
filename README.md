@@ -15,8 +15,8 @@
   [Wifi](#4-wifi)
 
 ## 5.Zabezpieczenia
-   [Wifi]
-   [Zarzadzanie]
+  # [Wifi]
+  # [Zarzadzanie]
  
 ## 6.Server WWW
 
