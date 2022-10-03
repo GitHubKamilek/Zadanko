@@ -12,7 +12,7 @@
   [Konfiguracja Dhcp](#3-dhcp)
   
 ## 4.Wifi
-  [Wifi]()
+  [Wifi](#4-wifi)
 
 ## 5.Zabezpieczenia
  
