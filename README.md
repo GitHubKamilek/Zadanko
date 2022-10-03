@@ -2,8 +2,8 @@
 
 # Spis treści:
 
-## 1.Konfiguracja Lan
-  [Konfiguracja Lan ](#1.a Konfiguracja-Lan)
+## 1.Konfiguracja Lan 
+  [Konfiguracja Lan ]()
  
 ## 2.Konfiguracja Wan(dynamic)
 
@@ -17,4 +17,7 @@
 
 ## 7.Przekierowanie portów WWW
 
+#
+#
+1.Konfiguracja 
 ### 1.a Konfiguracja Lan
