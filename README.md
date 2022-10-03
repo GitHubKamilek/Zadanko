@@ -9,7 +9,7 @@
   [Konfiguracja Wan](#2a-konfiguracja-wan)
 
 ## 3.Konfiguracja dhcp
-  [Konfiguracja Dhcp](#3a-dhcp)
+  [Konfiguracja Dhcp](#3-dhcp)
 ## 4.Wifi
 
 ## 5.Zabezpieczenia
