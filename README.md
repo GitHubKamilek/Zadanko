@@ -2,8 +2,8 @@
 
 ## Spis treści:
 
-[1.Konfiguracja Lan](#1.a Konfiguracja Lan)
-
+1.Konfiguracja Lan
+[Konfiguracja Lan](#1.a Konfiguracja Lan)
 2.Konfiguracja Wan(dynamic)
 
 3.Konfiguracja dhcp
