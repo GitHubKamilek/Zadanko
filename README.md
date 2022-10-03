@@ -26,6 +26,6 @@
 ## 2.a Konfiguracja Wan
  ![image](https://user-images.githubusercontent.com/98666161/193673325-93bb9a2e-e6fe-4c1b-8e8e-504cd6a5cff4.png)
 
-## 3.a Dhcp
+## 3. Dhcp
   ![image](https://user-images.githubusercontent.com/98666161/193675176-629c2a59-8d36-4f1d-9e0a-533b5ddf95aa.png)
-)
+
