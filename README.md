@@ -44,3 +44,4 @@
 ### Hasło do routera 
    ![image](https://user-images.githubusercontent.com/98666161/193680143-fc0bd455-50b8-4375-90a4-c48c32f8c302.png)
 
+## 6. Server WWW  
