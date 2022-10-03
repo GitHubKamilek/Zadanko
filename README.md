@@ -3,7 +3,7 @@
 # Spis treści:
 
 ## 1.Konfiguracja Lan 
-  [Konfiguracja Lan ]()
+  [Konfiguracja Lan ](1.a Konfiguracja Lan)
  
 ## 2.Konfiguracja Wan(dynamic)
 
@@ -19,5 +19,5 @@
 
 #
 #
-1.Konfiguracja 
+##1.Konfiguracja 
 ### 1.a Konfiguracja Lan
