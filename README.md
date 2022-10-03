@@ -13,6 +13,7 @@
   
 ## 4.Wifi
   [Wifi](#4-wifi)
+  [Wifi password](#wifi-password)
 
 ## 5.Zabezpieczenia
   [Hasła](#5-zabezpieczenia)
