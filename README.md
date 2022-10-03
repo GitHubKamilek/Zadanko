@@ -42,6 +42,5 @@
   ![image](https://user-images.githubusercontent.com/98666161/193678215-5da02a0d-e268-4233-884c-e7dbba24952a.png)
 
 ### Hasło do routera 
-   ![image](https://user-images.githubusercontent.com/98666161/193679976-0e32c22e-9f82-47af-b9f5-aedc6bd5dbae.png)
-
+   ![image](https://user-images.githubusercontent.com/98666161/193680143-fc0bd455-50b8-4375-90a4-c48c32f8c302.png)
 
