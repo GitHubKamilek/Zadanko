@@ -22,5 +22,5 @@
 ## 1.a Konfiguracja Lan
  ![image](https://user-images.githubusercontent.com/98666161/193669963-129c2b4c-ffc1-4551-b430-efe77df84e9b.png)
  
-# 
+
 ## 2.a Konfiguracja Wan
