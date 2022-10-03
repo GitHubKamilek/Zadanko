@@ -2,7 +2,7 @@
 
 ## Spis treści:
 
-1.Konfiguracja Lan
+[1.Konfiguracja Lan](1.Konfiguracja Lan)
 
 2.Konfiguracja Wan(dynamic)
 
