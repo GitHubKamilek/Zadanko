@@ -15,6 +15,8 @@
   [Wifi](#4-wifi)
 
 ## 5.Zabezpieczenia
+   [Wifi]
+   [Zarzadzanie]
  
 ## 6.Server WWW
 
@@ -34,3 +36,4 @@
 ## 4. Wifi
   ![image](https://user-images.githubusercontent.com/98666161/193676808-29798740-00f2-43de-95c5-995aefa92891.png)
 
+## 5. Zabezpieczenia 
