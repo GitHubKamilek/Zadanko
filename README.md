@@ -10,7 +10,9 @@
 
 ## 3.Konfiguracja dhcp
   [Konfiguracja Dhcp](#3-dhcp)
+  
 ## 4.Wifi
+  [Wifi]()
 
 ## 5.Zabezpieczenia
  
@@ -28,4 +30,6 @@
 
 ## 3. Dhcp
   ![image](https://user-images.githubusercontent.com/98666161/193675176-629c2a59-8d36-4f1d-9e0a-533b5ddf95aa.png)
+
+## 4. Wifi
 
