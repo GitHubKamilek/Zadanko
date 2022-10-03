@@ -19,5 +19,5 @@
 
 #
 #
-##1.Konfiguracja 
-### 1.a Konfiguracja Lan
+1.Konfiguracja 
+## 1.a Konfiguracja Lan
