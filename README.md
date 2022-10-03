@@ -18,6 +18,7 @@
   [Hasła](#5-zabezpieczenia)
  
 ## 6.Server WWW
+   [Server](#6-server-www)
 
 ## 7.Przekierowanie portów WWW
 
