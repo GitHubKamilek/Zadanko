@@ -32,4 +32,5 @@
   ![image](https://user-images.githubusercontent.com/98666161/193675176-629c2a59-8d36-4f1d-9e0a-533b5ddf95aa.png)
 
 ## 4. Wifi
+  ![image](https://user-images.githubusercontent.com/98666161/193676808-29798740-00f2-43de-95c5-995aefa92891.png)
 
