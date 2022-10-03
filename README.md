@@ -21,6 +21,7 @@
    [Server](#6-server-www)
 
 ## 7.Przekierowanie portów WWW
+   [Przekierowanie portów](#7-przekierowanie-portów-www)
 
 #
 ## 1. Konfiguracja Lan
