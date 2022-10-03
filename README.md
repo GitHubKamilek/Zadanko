@@ -49,3 +49,4 @@
 ## 6. Server WWW  
 
 ## 7. Przekierowanie portów WWW 
+  ![image](https://user-images.githubusercontent.com/98666161/193682672-08dd74fc-b977-4c2d-961b-acf7203dff58.png)
