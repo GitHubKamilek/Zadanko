@@ -1,19 +1,19 @@
 #  Dokumentacja konfiguracji sieci w domu 
 
-## Spis treści:
+# Spis treści:
 
-1.Konfiguracja Lan
-[Konfiguracja Lan ](#1.a Konfiguracja Lan)
-2.Konfiguracja Wan(dynamic)
-
-3.Konfiguracja dhcp
-
-4.Wifi
-
-5.Zabezpieczenia
+## 1.Konfiguracja Lan
  
-6.Server WWW
+## 2.Konfiguracja Wan(dynamic)
 
-7.Przekierowanie portów WWW
+## 3.Konfiguracja dhcp
 
-1.a Konfiguracja Lan
+## 4.Wifi
+
+## 5.Zabezpieczenia
+ 
+## 6.Server WWW
+
+## 7.Przekierowanie portów WWW
+
+### 1.a Konfiguracja Lan
