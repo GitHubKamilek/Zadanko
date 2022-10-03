@@ -13,7 +13,6 @@
   
 ## 4.Wifi
   [Wifi](#4-wifi)
-  [Wifi password](#wifi-password)
 
 ## 5.Zabezpieczenia
   [Hasła](#5-zabezpieczenia)
@@ -39,5 +38,6 @@
 ## 5. Zabezpieczenia 
   ### Wifi password
   ![image](https://user-images.githubusercontent.com/98666161/193677710-5ce8aba8-a72a-4342-81a5-fef18beea555.png)
+ ### Wifi settings
   ![image](https://user-images.githubusercontent.com/98666161/193678215-5da02a0d-e268-4233-884c-e7dbba24952a.png)
 
