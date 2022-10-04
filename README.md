@@ -51,7 +51,7 @@
   ![image](https://user-images.githubusercontent.com/98666161/193899152-338e1cb8-0995-44f6-9d94-8e2bbb5e6175.png)
   
   ![image](https://user-images.githubusercontent.com/98666161/193900248-0e809c83-0ee8-4c00-b477-4214f764d690.png)
-)
+
 
 ## 7. Przekierowanie portów WWW 
   ![image](https://user-images.githubusercontent.com/98666161/193682672-08dd74fc-b977-4c2d-961b-acf7203dff58.png)
