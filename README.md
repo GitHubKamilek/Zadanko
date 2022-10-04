@@ -48,7 +48,7 @@
    ![image](https://user-images.githubusercontent.com/98666161/193680143-fc0bd455-50b8-4375-90a4-c48c32f8c302.png)
 
 ## 6. Server WWW  
-   ![image]((https://user-images.githubusercontent.com/98666161/193899152-338e1cb8-0995-44f6-9d94-8e2bbb5e6175.png)
+  ![image]((https://user-images.githubusercontent.com/98666161/193899152-338e1cb8-0995-44f6-9d94-8e2bbb5e6175.png)
 
 
 ## 7. Przekierowanie portów WWW 
